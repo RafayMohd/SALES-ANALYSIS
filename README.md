@@ -7,6 +7,7 @@ The project also breaks down sales performance by pizza category (e.g., Classic,
 This interactive dashboard is designed to provide actionable insights to optimize inventory, improve sales strategies, and enhance customer satisfaction by focusing on high-demand categories and sizes.
 
 
+(https://github.com/user-attachments/assets/11805699-5ebe-4b19-ab22-0f57fce64b14)
 
 
 
